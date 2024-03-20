@@ -2,5 +2,5 @@ streamlit
 numpy 
 pandas
 nltk
-scikt-learn
+scikit-learn
 spacy
