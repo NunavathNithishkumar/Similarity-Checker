@@ -1,0 +1,8 @@
+streamlit
+numpy 
+pandas
+re
+string
+nltk
+sklearn
+spacy
