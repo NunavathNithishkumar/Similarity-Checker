@@ -91,7 +91,7 @@ def main():
         text2_processed = ' '.join(text2_processed)
 
         # Calculate TF-IDF similarity
-        similarity_score = cosine_similarity(text1_processed, text2_processed)
+        similarity_score = tfidf_similarity(text1_processed, text2_processed)
 
         # Display the similarity score
         st.subheader("Similarity Score")
