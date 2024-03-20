@@ -1,7 +1,6 @@
 streamlit
 numpy 
 pandas
-string
 nltk
 scikt-learn
 spacy
